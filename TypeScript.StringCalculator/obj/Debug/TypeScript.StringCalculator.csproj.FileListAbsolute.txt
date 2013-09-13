@@ -1,0 +1,5 @@
+C:\projects\TypeScript.StringCalculator\TypeScript.StringCalculator\obj\Debug\TypeScript.StringCalculator.csprojResolveAssemblyReference.cache
+C:\projects\TypeScript.StringCalculator\TypeScript.StringCalculator\bin\TypeScript.StringCalculator.dll
+C:\projects\TypeScript.StringCalculator\TypeScript.StringCalculator\bin\TypeScript.StringCalculator.pdb
+C:\projects\TypeScript.StringCalculator\TypeScript.StringCalculator\obj\Debug\TypeScript.StringCalculator.dll
+C:\projects\TypeScript.StringCalculator\TypeScript.StringCalculator\obj\Debug\TypeScript.StringCalculator.pdb
